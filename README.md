@@ -43,4 +43,3 @@ flutter run
 ## Autoría
 
 Proyecto desarrollado como práctica de programación con Flutter por Svitlana Giryushta Smirnova.
-
